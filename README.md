@@ -1,5 +1,6 @@
 # secureLogging
-> secureLogging make better application environment.  
+> secureLogging make better application environment.
+
 Nowdays, most security company consider efficient security.  
 So I made this project to easy report cybersecurity accident.
 
